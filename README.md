@@ -1,4 +1,7 @@
 # Project Overview: Nymara
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## What is Nymara?
 Nymara is a climate-tech infrastructure initiative focused on urban resilience. It specializes in the development of **hyper-porous road systems** integrated with **advanced nano-engineered coatings**. By reimagining traditional asphalt and concrete surfaces as active drainage systems, Nymara aims to mitigate the catastrophic impacts of urban flooding and the "heat island" effect.
@@ -37,3 +40,25 @@ Nymara offers a **10X Impact** solution by transforming the most common urban su
 ## Connect & Learn More
 * **Website:** [nymara.vercel.app](http://nymara.vercel.app/)
 * **Focus:** Urban Flood Resilience | Nano-Engineering | Smart Infrastructure
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://anandajith.vercel.app/"><img src="https://avatars.githubusercontent.com/u/79527344?v=4?s=100" width="100px;" alt="Anand Ajith Radhika"/><br /><sub><b>Anand Ajith Radhika</b></sub></a><br /><a href="#research-aanxnd" title="Research">🔬</a> <a href="https://github.com/malekhammoud/nymara/commits?author=aanxnd" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
