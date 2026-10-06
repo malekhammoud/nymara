@@ -6,6 +6,7 @@
 ## What is Nymara?
 Nymara is a climate-tech infrastructure initiative focused on urban resilience. It specializes in the development of **hyper-porous road systems** integrated with **advanced nano-engineered coatings**. By reimagining traditional asphalt and concrete surfaces as active drainage systems, Nymara aims to mitigate the catastrophic impacts of urban flooding and the "heat island" effect.
 
+**Members: Ved, Malek, Anand, Bhavi, Laasya**
 ---
 
 ## The Problem: Rising Urban Vulnerability
@@ -58,7 +59,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
